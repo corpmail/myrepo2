@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MyHelloWorldActivity extends Activity {
-	/** Called when the activity is first created. */
+	/** Called when the activty is fist created. */
 	Button b1;
 	Button b2;
 	EditText et1;
@@ -75,8 +75,7 @@ public class MyHelloWorldActivity extends Activity {
 
 				// create alert dialog
 				AlertDialog alertDialog = alertDialogBuilder.create();
-
-				// show it
+				// show it!
 				alertDialog.show();
 			}
 		});

@@ -9,6 +9,6 @@ public class MyProgressBar1Activity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        //Hier passiert was
+        //Hier passiert was2
     }
 }
